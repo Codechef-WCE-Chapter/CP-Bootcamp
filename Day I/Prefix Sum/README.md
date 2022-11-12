@@ -58,4 +58,4 @@ if __name__ == '__main__':
 ```
 
 ## Practice Question
-[Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
+- [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
