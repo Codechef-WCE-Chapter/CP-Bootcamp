@@ -6,7 +6,7 @@ In short sum of the prefixes of the array indices.
 
 ## Implementation
 
-### In CPP
+### CPP
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -34,7 +34,7 @@ int main(){
 }
 ```
 
-### In Python
+### Python
 ```py
 def prefixSum(n, arr):
     prefix_sum = [0] * (n + 1)
